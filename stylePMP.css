@@ -77,14 +77,14 @@ hr {
 
 .options {
 	position: left; 
-	width: 300px; 
+	width: 500px; 
 	margin-top: 10px; 
 }
 
 .button {
 	position: left; 
 	background-color: #e6f3ff;
-	width: 300px;
+	width: 500px;
 	height: auto;
 	border: 1.5px solid #339cff;
 	border-radius: 75px; 
