@@ -10,9 +10,9 @@ var questions = [
     {
         "question": "When is a project considered successful? ",
         "option1" : "All deliverables have been completed ",
-        "option2": "The phase completion has been approved ",
-        "option3": "Stakeholder expectations have been met ",
-        "option4": "The customer has provided final payment ",
+        "option2" : "The phase completion has been approved ",
+        "option3" : "Stakeholder expectations have been met ",
+        "option4" : "The customer has provided final payment ",
         "answer": 3
     },
     {
