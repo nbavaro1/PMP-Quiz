@@ -76,7 +76,7 @@ hr {
 }
 
 .options {
-	position: relative; 
+	position: left; 
 	width: 550px; 
 	margin-top: 15px; 
 }
@@ -84,7 +84,7 @@ hr {
 .button {
 	position: left; 
 	background-color: #e6f3ff;
-	width: auto;
+	width: 500px;
 	height: auto;
 	border: 1.5px solid #339cff;
 	border-radius: 75px; 
