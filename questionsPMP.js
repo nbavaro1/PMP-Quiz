@@ -40,7 +40,7 @@ var questions = [
         "answer": 2
     },
     {
-        "question": "During a planning meeting a discussion takes place to decide which resource will be assigned to perform an activity that will be fast tracked. As the project manager you unilaterally decide to assign Fred to the activity. What type of organizational structure is this?",
+        "question": "During a planning meeting a discussion takes place to decide which resource will be assigned to perform an activity that will be fast tracked. As the project manager you unilaterally decide to assign Fred to the activity. What type of organizational structure is this? ",
         "option1": "Functional organization",
         "option2": "Projectized organization",
         "option3": "Matrix organization",
@@ -56,11 +56,11 @@ var questions = [
         "answer": 1
     },
     {
-        "question": "During which process group are costs the highest?",
-        "option1": "Planning",
-        "option2": "Executing",
-        "option3": "Monitoring and Controlling",
-        "option4": "Closing",
+        "question": "During which process group are costs the highest? ",
+        "option1": "Planning ",
+        "option2": "Executing ",
+        "option3": "Monitoring and Controlling ",
+        "option4": "Closing ",
         "answer": 2
     },
     {
