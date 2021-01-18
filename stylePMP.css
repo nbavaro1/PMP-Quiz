@@ -78,7 +78,7 @@ hr {
 .options {
 	position: left; 
 	width: 300px; 
-	margin-top: 15px; 
+	margin-top: 30px; 
 }
 
 .button {
@@ -88,7 +88,7 @@ hr {
 	height: 40px;
 	border: 1.5px solid #339cff;
 	border-radius: 75px; 
-	margin: 10px; 
+	margin: 30px; 
 }
 
 .button span {
