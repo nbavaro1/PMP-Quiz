@@ -88,11 +88,11 @@ var questions = [
         "answer": 3
     },
     {
-        "question": "The PMBOK Guide suggests that all projects follow these phases of the project life cycle. Which answer represents the phases of the project life cycle?",
+        "question": "The PMBOK Guide suggests that all projects follow these phases of the project life cycle. Which answer represents the phases of the project life cycle? ",
         "option1": "Planning, Acting, Doing, Checking",
-        "option2": "Initiating, Planning, Executing, Monitoring and Controlling, and Closing",
-        "option3": "Discovery, Designing, Execution, and Finishing",
-        "option4": "Initiating, Planning, Performing, and Closing out",
+        "option2": "Initiating, Planning, Executing, Monitoring and Controlling, and Closing ",
+        "option3": "Discovery, Designing, Execution, and Finishing ",
+        "option4": "Initiating, Planning, Performing, and Closing out ",
         "answer": 4
     },
     {
