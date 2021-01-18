@@ -84,10 +84,10 @@ hr {
 .button {
 	position: relative; 
 	background-color: #e6f3ff;
-	width: 300px;
+	width: 350px;
 	height: auto;
-	border: 1.5px solid #339cff;
-	border-radius: 75px; 
+	border: 2px solid #339cff;
+	border-radius: 100px; 
 	margin: 10px; 
 }
 
