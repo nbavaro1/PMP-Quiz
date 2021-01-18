@@ -73,10 +73,10 @@ var questions = [
     },
     {
         "question": "All of the following statements are true except:",
-        "option1": "It is the  job of the project  manager to ensure that information is explicit, clear, and complete.",
-        "option2": "A project manager must possess a strong knowledge of finance and accounting principles.",
-        "option3": "Organizational and planning skills are an important skill set for a project manager to possess.",
-        "option4": "Power is a technique that the project manager may use to influence people.",
+        "option1": "It is the  job of the project  manager to ensure that information is explicit, clear, and complete. ",
+        "option2": "A project manager must possess a strong knowledge of finance and accounting principles. ",
+        "option3": "Organizational and planning skills are an important skill set for a project manager to possess. ",
+        "option4": "Power is a technique that the project manager may use to influence people. ",
         "answer": 2
     },
     {
