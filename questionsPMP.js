@@ -118,5 +118,5 @@ var questions = [
         "option3": "Finalizing Project work and closing out all vendor contracts",
         "option4": "Finalizing project work and accepting project Deliverables",
         "answer": 3
-    }
+    },
 ];
