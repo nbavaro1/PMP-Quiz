@@ -120,5 +120,21 @@ var questions = [
         "option3": "Finalizing Project work and closing out all vendor contracts",
         "option4": "Finalizing project work and accepting project Deliverables",
         "answer": 3
+    },
+     {
+        "question": "Identify Stakeholders, Plan Stakeholder Management and Control Stakeholder Engagement are all processes of which Knowledge Area?",
+        "option1": "Project Integration Management",
+        "option2": "Project Stakeholder Management",
+        "option3": "Project human Resource Management",
+        "option4": "Project Procurement Management",
+        "answer": 2
+    },
+      {
+        "question": "Ron is the project manager of a pharmaceutical company that develops multiple product to help fight diseases affecting children. There are currently two new drugs that the company is planning to develop within the next two years. Ron has been tasked with determining which of the two drugs has the greatest opportunity for success in today’s marketplace. This  is an example of which of the following?",
+        "option1": "A business need",
+        "option2": "A demand",
+        "option3": "A project selection method",
+        "option4": "A feasibility study",
+        "answer": 4
     }
 ];
