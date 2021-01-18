@@ -195,7 +195,7 @@ submit.addEventListener("click", nextQuestion);
 
 function nextQuestion() {
     
-    if(button1.style.backgroundColor !== "rgb(255, 255, 0)" && button2.style.backgroundColor !== "rgb(25, 255, 0)"&& button3.style.backgroundColor !== "rgb(255, 255, 0)"&& button4.style.backgroundColor !== "rgb(255, 255, 0)") {
+    if(button1.style.backgroundColor !== "rgb(255, 255, 0)" && button2.style.backgroundColor !== "rgb(255, 255, 0)"&& button3.style.backgroundColor !== "rgb(255, 255, 0)"&& button4.style.backgroundColor !== "rgb(255, 255, 0)") {
         alert("Please select an option");
         return;
     }
