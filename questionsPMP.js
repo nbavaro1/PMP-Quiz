@@ -40,6 +40,7 @@ var questions = [
         "option4": "Maintaining and archiving project documentation for future use",
         "answer": 2
     },
+     
     {
         "question": "During a planning meeting a discussion takes place to decide which resource will be assigned to perform an activity that will be fast tracked, As the project manager you unilaterally decide to assign Fred to the activity, What type of organizational structure is this?",
         "option1": "Functional organization",
