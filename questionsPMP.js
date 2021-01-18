@@ -1,12 +1,13 @@
 var questions = [
     {
-        "question": "The following are characteristics of a project except:",
+        "question": "The following are characteristics of a project except",
         "option1" : "It is a temporary in nature",
         "option2": "It is continuous",
         "option3": "It is uniqueStakeholder expectations have been metIt is unique",
         "option4": "It has a definitive end",
         "answer": 2
     },
+   
     
     {
         "question": "When is a project considered successful?",
