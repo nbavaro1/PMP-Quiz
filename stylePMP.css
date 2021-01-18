@@ -82,7 +82,7 @@ hr {
 }
 
 .button {
-	position: relative; 
+	position: left; 
 	background-color: #e6f3ff;
 	width: auto;
 	height: auto;
@@ -92,7 +92,7 @@ hr {
 }
 
 .button span {
-	text-align: center; 
+	text-align: left; 
 	font-size: 20px; 
 	padding: 10px;
 	font-weight: bold; 
