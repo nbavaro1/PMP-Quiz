@@ -17,7 +17,7 @@ var questions = [
         "answer": 3
     },
     {
-        "question": "You are currently managing multiple projects relating to a high profile build out of a major retail center. The project is extensive, with a two year timeline. Bob is the project manager  responsible for the east block of the build out and Sally is the project manager responsible for the north block of the build out. Both Bob and Sally report to you. Your role can best  be described as",
+        "question": "You are currently managing multiple projects relating to a high profile build out of a major retail center, The project is extensive, with a two year timeline. Bob is the project manager  responsible for the east block of the build out and Sally is the project manager responsible for the north block of the build out. Both Bob and Sally report to you. Your role can best  be described as",
         "option1" : "Lead project manager",
         "option2": "Department manager",
         "option3": "Program manager",
@@ -75,10 +75,10 @@ var questions = [
     },
     {
         "question": "All of the following statements are true except",
-        "option1": "It is the  job of the project  manager to ensure that information is explicit, clear, and complete.",
-        "option2": "A project manager must possess a strong knowledge of finance and accounting principles.",
-        "option3": "Organizational and planning skills are an important skill set for a project manager to possess.",
-        "option4": "Power is a technique that the project manager may use to influence people.",
+        "option1": "It is the  job of the project  manager to ensure that information is explicit, clear, and complete",
+        "option2": "A project manager must possess a strong knowledge of finance and accounting principles",
+        "option3": "Organizational and planning skills are an important skill set for a project manager to possess",
+        "option4": "Power is a technique that the project manager may use to influence people",
         "answer": 2
     },
     {
@@ -90,7 +90,7 @@ var questions = [
         "answer": 3
     },
     {
-        "question": "The PMBOK Guide suggests that all projects follow these phases of the project life cycle. Which answer represents the phases of the project life cycle?",
+        "question": "The PMBOK Guide suggests that all projects follow these phases of the project life cycle, Which answer represents the phases of the project life cycle?",
         "option1": "Planning, Acting, Doing, Checking",
         "option2": "Initiating, Planning, Executing, Monitoring and Controlling, and Closing",
         "option3": "Discovery, Designing, Execution, and Finishing",
@@ -98,7 +98,7 @@ var questions = [
         "answer": 4
     },
     {
-        "question": "General management skills are necessary  foundation for the work of a project manager. Which of the following are  not general management skills a project manager would need?",
+        "question": "General management skills are necessary  foundation for the work of a project manager, Which of the following are  not general management skills a project manager would need?",
         "option1": "Data management skills",
         "option2": "Communication skills",
         "option3": "Conflict management skills",
