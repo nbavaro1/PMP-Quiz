@@ -84,7 +84,7 @@ hr {
 .button {
 	position: left; 
 	background-color: #e6f3ff;
-	width: 250px;
+	width: auto;
 	height: auto;
 	border: 1.5px solid #339cff;
 	border-radius: 75px; 
