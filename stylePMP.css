@@ -76,7 +76,7 @@ hr {
 }
 
 .options {
-	position: left; 
+	position: relative; 
 	width: auto; 
 	margin-top: 15px; 
 }
