@@ -1,7 +1,7 @@
 var questions = [
      {
         "question": "The following are characteristics of a project except?",
-        "option1" : "It is a temporary in nature",
+        "option1": "It is a temporary in nature",
         "option2": "It is continuous",
         "option3": "It is unique",
         "option4": "It has a definitive end",
@@ -10,7 +10,7 @@ var questions = [
     
     {
         "question": "When is a project considered successful?",
-        "option1" : "All deliverables have been completed",
+        "option1": "All deliverables have been completed",
         "option2": "The phase completion has been approved",
         "option3": "Stakeholder expectations have been met",
         "option4": "The customer has provided final payment",
@@ -18,7 +18,7 @@ var questions = [
     },
     {
         "question": "You are currently managing multiple projects relating to a high profile build out of a major retail center, The project is extensive, with a two year timeline. Bob is the project manager  responsible for the east block of the build out and Sally is the project manager responsible for the north block of the build out. Both Bob and Sally report to you. Your role can best  be described as",
-        "option1" : "Lead project manager",
+        "option1": "Lead project manager",
         "option2": "Department manager",
         "option3": "Program manager",
         "option4": "Portfolio manager",
@@ -26,7 +26,7 @@ var questions = [
     },
     {
         "question": "Which of the following organizational types is the oldest style of organization?",
-        "option1" : "Functional organization",
+        "option1": "Functional organization",
         "option2": "Projectized organization",
         "option3": "Matrix organization",
         "option4": "Balanced matrix organization",
@@ -34,7 +34,7 @@ var questions = [
     },
     {
         "question": "A project management office PMO is responsible for the following activities except?",
-        "option1" : "Measuring project performance and suggesting corrective action",
+        "option1": "Measuring project performance and suggesting corrective action",
         "option2": "Assuring efficient use of resources toward a specific business goal",
         "option3": "Evaluating competed project for adherence to project plan",
         "option4": "Maintaining and archiving project documentation for future use",
