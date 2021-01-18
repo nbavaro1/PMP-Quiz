@@ -85,7 +85,7 @@ hr {
 	position: left; 
 	background-color: #e6f3ff;
 	width: 300px;
-	height: 100px;
+	height: auto;
 	border: 1.5px solid #339cff;
 	border-radius: 75px; 
 	margin: 30px; 
