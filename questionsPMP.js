@@ -35,7 +35,7 @@ var questions = [
         "answer": 1
     },
     {
-        "question": "A project management office (PMO) is responsible for the following activities except:?",
+        "question": "A project management office (PMO) is responsible for the following activities except?",
         "option1" : "Measuring project performance and suggesting corrective action",
         "option2": "Assuring efficient use of resources toward a specific business goal",
         "option3": "Evaluating competed project for adherence to project plan",
