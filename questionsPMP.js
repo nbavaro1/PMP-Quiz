@@ -42,7 +42,7 @@ var questions = [
     },
      
     {
-        "question": "During a planning meeting a discussion takes place to decide which resource will be assigned to perform an activity that will be fast tracked, As the project manager you unilaterally decide to assign Fred to the activity, What type of organizational structure is this",
+        "question": "During a planning meeting a discussion takes place to decide which resource will be assigned to perform an activity that will be fast tracked, As the project manager you unilaterally decide to assign Fred to the activity, What type of organizational structure is this?",
         "option1": "Functional organization",
         "option2": "Projectized organization",
         "option3": "Matrix organization",
