@@ -8,13 +8,14 @@ var questions = [
         "answer": 2
     },
     {
-        "question": "When is a project considered successful? ",
-        "option1" : "All deliverables have been completed ",
-        "option2" : "The phase completion has been approved ",
-        "option3" : "Stakeholder expectations have been met ",
-        "option4" : "The customer has provided final payment ",
+        "question": "When is a project considered successful?",
+        "option1" : "All deliverables have been completed",
+        "option2": "The phase completion has been approved",
+        "option3": "It is uniqueStakeholder expectations have been met",
+        "option4": "The customer has provided final payment",
         "answer": 3
     },
+    
     {
         "question": "You are currently managing multiple projects relating to a high profile build out of a major retail center. The project is extensive, with a two year timeline. Bob is the project manager  responsible for the east block of the build out and Sally is the project manager responsible for the north block of the build out. Both Bob and Sally report to you. Your role can best  be described as:",
         "option1" : "Lead project manager",
