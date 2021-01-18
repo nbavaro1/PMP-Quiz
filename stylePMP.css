@@ -82,7 +82,7 @@ hr {
 }
 
 .button {
-	position: left; 
+	position: relative; 
 	background-color: #e6f3ff;
 	width: auto;
 	height: auto;
