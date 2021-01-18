@@ -2,9 +2,9 @@ var questions = [
      {
         "question": "The following are characteristics of a project except?",
         "option1": "It is a temporary in nature",
-        "option2": "It is continuous",
-        "option3": "It is unique",
-        "option4": "It has a definitive end",
+        "option2": "It is continuous           ",
+        "option3": "It is unique               ",
+        "option4": "It has a definitive end    ",
         "answer": 2
     },
     
@@ -18,10 +18,10 @@ var questions = [
     },
     {
         "question": "You are currently managing multiple projects relating to a high profile build out of a major retail center, The project is extensive, with a two year timeline. Bob is the project manager  responsible for the east block of the build out and Sally is the project manager responsible for the north block of the build out. Both Bob and Sally report to you. Your role can best  be described as",
-        "option1": "Lead project manager",
-        "option2": "Department manager",
-        "option3": "Program manager",
-        "option4": "Portfolio manager",
+        "option1": "Lead project manager      ",
+        "option2": "Department manager        ",
+        "option3": "Program manager           ",
+        "option4": "Portfolio manager         ",
         "answer": 3
     },
     {
