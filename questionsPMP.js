@@ -2,9 +2,9 @@ var questions = [
      {
         "question": "The following are characteristics of a project except?",
         "option1": "It is a temporary in nature",
-        "option2": "It is continuous           ",
-        "option3": "It is unique               ",
-        "option4": "It has a definitive end    ",
+        "option2": "It is continuous",
+        "option3": "It is unique",
+        "option4": "It has a definitive end",
         "answer": 2
     },
     
@@ -18,10 +18,10 @@ var questions = [
     },
     {
         "question": "You are currently managing multiple projects relating to a high profile build out of a major retail center, The project is extensive, with a two year timeline. Bob is the project manager  responsible for the east block of the build out and Sally is the project manager responsible for the north block of the build out. Both Bob and Sally report to you. Your role can best  be described as",
-        "option1": "Lead project manager      ",
-        "option2": "Department manager        ",
-        "option3": "Program manager           ",
-        "option4": "Portfolio manager         ",
+        "option1": "Lead project manager",
+        "option2": "Department manager",
+        "option3": "Program manager",
+        "option4": "Portfolio manager",
         "answer": 3
     },
     {
@@ -33,7 +33,7 @@ var questions = [
         "answer": 1
     },
     {
-        "question": "A project management office PMO is responsible for the following activities except?",
+        "question": "A project management office (PMO) is responsible for the following activities except?",
         "option1": "Measuring project performance and suggesting corrective action",
         "option2": "Assuring efficient use of resources toward a specific business goal",
         "option3": "Evaluating competed project for adherence to project plan",
@@ -42,7 +42,7 @@ var questions = [
     },
      
     {
-        "question": "During a planning meeting a discussion takes place to decide which resource will be assigned to perform an activity that will be fast tracked, As the project manager you unilaterally decide to assign Fred to the activity, What type of organizational structure is this?",
+        "question": "During a planning meeting a discussion takes place to decide which resource will be assigned to perform an activity that will be fast tracked. As the project manager you unilaterally decide to assign Fred to the activity. What type of organizational structure is this?",
         "option1": "Functional organization",
         "option2": "Projectized organization",
         "option3": "Matrix organization",
@@ -86,11 +86,11 @@ var questions = [
         "option1": "High to ultimate authority",
         "option2": "Authority to assign resources",
         "option3": "Minimal to no authority",
-        "option4": "Authority to recommend resources.",
+        "option4": "Authority to recommend resources",
         "answer": 3
     },
     {
-        "question": "The PMBOK Guide suggests that all projects follow these phases of the project life cycle, Which answer represents the phases of the project life cycle?",
+        "question": "The PMBOK Guide suggests that all projects follow these phases of the project life cycle. Which answer represents the phases of the project life cycle?",
         "option1": "Planning, Acting, Doing, Checking",
         "option2": "Initiating, Planning, Executing, Monitoring and Controlling, and Closing",
         "option3": "Discovery, Designing, Execution, and Finishing",
