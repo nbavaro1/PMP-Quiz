@@ -440,5 +440,325 @@ var questions = [
       "option3": "Develop Project Charter",
       "option4": "Plan Human Resource Management",
       "answer": 3
+  },
+  {
+      "question": "Which of the following is not a form of frequent verification and validation?",
+      "option1": "Pair programming",
+      "option2": "Unit testing",
+      "option3": "Iteration demos",
+      "option4": "Iteration planning",
+      "answer": 4
+  },
+  {
+      "question": "Which set of tools is least likely to be used by an agile team?",
+      "option1": "Digital camera, task board",
+      "option2": "Stickieson a whiteboard, user story cards",
+      "option3": "Scheduling software, Gantt charts",
+      "option4": "Iteration planningSmart board, card wall",
+      "answer": 3
+  },
+  {
+      "question": "A sponsor wants to evaluate a proposed three-year project against two proposed one-year projects. Which financial metric would be most helpful?",
+      "option1": "NPV",
+      "option2": "ROI",
+      "option3": "MMF",
+      "option4": "Velocity",
+      "answer": 1
+  },
+  {
+      "question": "The purpose of continuous integration is to:",
+      "option1": "Always have a version of the software ready for release",
+      "option2": "Shorten lengthy compile times",
+      "option3": "Facilitate the practice of pair programming",
+      "option4": "Find code issues as soon as possible",
+      "answer": 4
+  },
+  {
+      "question": "Which of the following is NOT a recognized agile prioritization scheme?",
+      "option1": "Prioritization based on business value",
+      "option2": "Prioritization based on reducing risk",
+      "option3": "Prioritization based on iteration velocity",
+      "option4": "Prioritization based on business value and risk",
+      "answer": 3
+  },
+  {
+      "question": "Which of the following is true about agile contracts?",
+      "option1": "They only work when the specs are fully defined.",
+      "option2": "The only work for time and materials agreements.",
+      "option3": "They need to be able to accommodate changes.",
+      "option4": "The cannot easily accommodate changes.",
+      "answer": 3
+  },
+  {
+      "question": "You are working on a software development team that follows a test-driven development process. The sequence of activities you would undertake is:",
+      "option1": "Write code, write test, refactor",
+      "option2": "Write test, refactor, write code",
+      "option3": "Write test, write code, refactor",
+      "option4": "Write code, refactor, write test",
+      "answer": 3
+  },
+  {
+      "question": "Which of the following is mostly likely to be an MVP?",
+      "option1": "A bicycle that has no handlebars",
+      "option2": "A pen that has  reservoir for glow-in-the-dark ink as well as regular ink",
+      "option3": "An order entry system that has no user interface",
+      "option4": "A chair that has no back",
+      "answer": 4
+  },
+  {
+      "question": "The sponsor is trying to determine which project has the greatest business value –one that returns $4 million in three years or one that returns $5 million in four  years.  The interest rate is 5 percent for borrowing capital to develop the projects.  The best approach to determine the highest value project is:",
+      "option1": "Select the “$5 million in four years” project, since it returns the highest amount",
+      "option2": "Select the “$4 million in three years” project since it has the shorter payback period",
+      "option3": "Calculate the NPV of the projects and choose the project with the highest value",
+      "option4": "Calculate the NPV of the projects and choose the project with the lowest value",
+      "answer": 3
+  },
+  {
+      "question": "You have been asked to outline the basics of agile contracting for your steering committee. Which of the following statements best describes the recommended approach to contracting on agile projects?",
+      "option1": "The contract is worded to allow for early completion of scope, and acceptance is based on the items matching the original specification.",
+      "option2": "The contract is worded to allow for reprioritization of scope, and acceptance is based on items matching the original specification.",
+      "option3": "The contract is worded to allow for early completion of scope, and acceptance is based on items being fit for business purpose.",
+      "option4": "The contract is worded to allow for reprioritization of scope, and acceptance is based on items being fit for business purpose.",
+      "answer": 4
+  },
+  {
+      "question": "MoSCoW and dot voting are forms of:",
+      "option1": "Estimation",
+      "option2": "Risk identification",
+      "option3": "Prioritization",
+      "option4": "Reporting",
+      "answer": 3
+  },
+  {
+      "question": "What is the primary benefit of involving business representatives in the prioritization of work?",
+      "option1": "To proactively engage the business representative between acceptance testing cycles",
+      "option2": "To answer business-related questions about the requirements",
+      "option3": "To promote communication about when features will be delivered",
+      "option4": "To better understand the business needs for the project",
+      "answer": 4
+  },
+  {
+      "question": "Which of the following is not a valid agile KPI?",
+      "option1": "Remaining work",
+      "option2": "Rate of progress",
+      "option3": "Rate of velocity",
+      "option4": "Likely completion date",
+      "answer": 3
+  },
+  {
+      "question": "Project X has an IRR of 12 percent, and project Y has an IRR of 10 percent. Which project represents the better rate of return?",
+      "option1": "It depends on the payback period.",
+      "option2": "Project Y",
+      "option3": "Project X",
+      "option4": "Likely completion dateProject X or Y, depending on the NPV",
+      "answer": 3
+  },
+  {
+      "question": "Which project represents the better rate of return?Which of the statements below best describes the agile concept of incremental delivery?",
+      "option1": "The product is built and evaluated in chunks that are prioritized and selected by the development team.",
+      "option2": "The product is built and evaluated in chunks that, by the end of the project, comprise the complete product, including agreed-upon change requests that arose during the process.",
+      "option3": "The product is built and evaluated in chunks that, by the end of the project, comprise the complete product, excluding agreed-upon change requests that arose during the process.",
+      "option4": "The product is built and evaluated in agreed-upon increments that, by the end of the project, comprise the complete product, factoring in the support demand that will be required after delivery.",
+      "answer": 2
+  },
+  {
+      "question": "In software development, the process of frequently integrating new and changed code into the project code repository is known as:",
+      "option1": "Integrating daily",
+      "option2": "Continuous integration",
+      "option3": "Integration control ",
+      "option4": "Constant feedback",
+      "answer": 2
+  },
+  {
+      "question": "Little’s Law demonstrates that:",
+      "option1": "The duration of a work queue is dependent on its size.",
+      "option2": "The duration of a work queue allows us to predict how long the project will take.",
+      "option3": "WIP is equal to the duration of the work queue.",
+      "option4": "Cycle time is equal to the size of the work queue.",
+      "answer": 1
+  },
+  {
+      "question": "How is risk related to value delivery?",
+      "option1": "Risk is an inherent part of delivering value.",
+      "option2": "Risk increases as value decreases.",
+      "option3": "Risk is factored into value.",
+      "option4": "Risk is anti-value.",
+      "answer": 4
+  },
+  {
+      "question": "The shorthand summary for the test-driven development sequence is:",
+      "option1": "Red, Green, Yellow",
+      "option2": "Red, Green, Refactor",
+      "option3": "Green, Red, Clean",
+      "option4": "Green, Red, Refactor",
+      "answer": 2
+  },
+  {
+      "question": "What is an S-curve?",
+      "option1": "A graph that tracks costs or some other variable over time",
+      "option2": "An earned value management diagram",
+      "option3": "A sophisticated scheduling tool",
+      "option4": "A Gantt chart of spending over time",
+      "answer": 1
+  },
+  {
+      "question": "All of the following are subsidiary elements al the project management plan except",
+      "option1": "Quality management plan",
+      "option2": "Risk management plan",
+      "option3": "Project scope statement",
+      "option4": "Scope baseline",
+      "answer": 3
+  },
+  {
+      "question": "Which of the following best describes a focus group?",
+      "option1": "Gathering of prequalified subject matter experts and stakeholders who provide feedback",
+      "option2": "One on one conversations with stakeholders",
+      "option3": "Group of subject matter experts who participate anonymously",
+      "option4": "Group of cross functional stakeholders who can define cross functional requirements",
+      "answer": 1
+  },
+  {
+      "question": "Sam is currently in the planning stages of a project and is working on developing the project scope statement. As part of converting the product scope description into deliverables, he has used the product breakdown and systems analysis techniques. Which of the following tools and techniques of the Define Scope process is Sam currently using?",
+      "option1": "Expert judgment",
+      "option2": "Product analysis",
+      "option3": "Alternatives generation",
+      "option4": "Facilitated workshops",
+      "answer": 2
+  },
+  {
+      "question": "The following are included within the WBS dictionary except",
+      "option1": "Code of accounts identifiers",
+      "option2": "Cost estimates",
+      "option3": "Description of the work of the component",
+      "option4": "Activity list",
+      "answer": 4
+  },
+  {
+      "question": "While sequencing activities, a project manager decides to use the precedence diagramming method to show existing dependencies between activities. Which of the logical relationships is the project manager most likely to use?",
+      "option1": "Finish to start",
+      "option2": "Start to finish",
+      "option3": "Finish to finish",
+      "option4": "Start to start",
+      "answer": 1
+  },
+  {
+      "question": "Rodrigo is the Plan Communications Management process of a new systems component project. He has determined that there are 32 stakeholders in the project. How many communication channels exist?",
+      "option1": "496",
+      "option2": "512",
+      "option3": "32",
+      "option4": "31",
+      "answer": 1
+  },
+  {
+      "question": "What is the purpose of the Perform Quantitative Risk Analysis process?",
+      "option1": "To determine how the project team will plan for risks",
+      "option2": "To identify and gather all potential risks within the project",
+      "option3": "To determine the impact and probability of identified risks and prioritize them",
+      "option4": "To evaluate the impact of risks prioritized and determine the risk exposure",
+      "answer": 3
+  },
+  {
+      "question": "Which type of contract carries the highest risk for the buyer?",
+      "option1": "Fixed price contracts",
+      "option2": "Lump sum contracts",
+      "option3": "Cost reimbursable contracts",
+      "option4": "Time and material contracts",
+      "answer": 3
+  },
+  {
+      "question": "Which of the following quality theorists devised the zero defects practice?",
+      "option1": "Walter Shewhart",
+      "option2": "Philip B Crosby",
+      "option3": "W. Edwards Deming",
+      "option4": "Joseph Juran",
+      "answer": 2
+  },
+  {
+      "question": "All of the following  are tools and techniques of the  Plan Quality Management  process except",
+      "option1": "Statistical sampling",
+      "option2": "Flowcharts",
+      "option3": "Force field analysis",
+      "option4": "Operational definition",
+      "answer": 4
+  },
+  {
+      "question": "The scope management plan should contain the following information except",
+      "option1": "The process used to prepare the  project scope statement",
+      "option2": "The definition of how deliverables will be  checked for accuracy and  the process for accepting deliverables",
+      "option3": "The list  of all requirements to  be included in the scope",
+      "option4": "The process used to create the WBS",
+      "answer": 3
+  },
+  {
+      "question": "Which of the  following is the purpose of collecting requirements?",
+      "option1": "Creating  a clear billing structure for project reimbursement",
+      "option2": "Documenting  stakeholder  expectations for meeting the  project  objective",
+      "option3": "Establishing the order in which activities should be conducted",
+      "option4": "Determining the total budget that will be needed for the project",
+      "answer": 2
+  },
+  {
+      "question": "What is the correct definition of a project constraint?",
+      "option1": "Project constraints limit the options of the project team. ",
+      "option2": "Project constraints are conditions presumed to be true.",
+      "option3": "Project constraints do not affect project outcomes.",
+      "option4": "Project constraints never change during the project.",
+      "answer": 1
+  },
+  {
+      "question": "What is the correct definition of a critical path task?",
+      "option1": "A critical path task must be done before all other project activities.",
+      "option2": "A critical path task does not affect the  project schedule.",
+      "option3": "A  critical path task is a project activity with schedule flexibility.",
+      "option4": "A critical path task is a project activity with zero float.",
+      "answer": 4
+  },
+  {
+      "question": "What is the cost baseline?",
+      "option1": "The total budget allocated to the project",
+      "option2": "The authorized, time phased cost of the project",
+      "option3": "The source of all project funding",
+      "option4": "The barrier to entry to attempt the project",
+      "answer": 2
+  },
+  {
+      "question": "Which definition of the cost of quality (COQ) is correct?",
+      "option1": "COQ is cost associated with parts from a high quality supplier",
+      "option2": "COQ is a project forecast that is displayed on an S curve",
+      "option3": "COQ is the total cost to produce the product meeting the quality standards",
+      "option4": "COQ increases the overall budget of the project",
+      "answer": 3
+  },
+  {
+      "question": "All of the following are benefits of meeting quality requirements except",
+      "option1": "Increased stakeholder satisfaction",
+      "option2": "Higher productivity",
+      "option3": "Increased costs for the project",
+      "option4": "Reduction in rework",
+      "answer": 3
+  },
+  {
+      "question": "All of the following are determined by the Plan Human Resources Management process except",
+      "option1": "Project communication needs for stakeholders",
+      "option2": "Project roles and responsibilities",
+      "option3": "Reporting relationships for the project",
+      "option4": "Staffing management plan",
+      "answer": 1
+  },
+  {
+      "question": "All of the following are outputs of the Plan Procurement Management process except",
+      "option1": "Procurement statement of work",
+      "option2": "Make or buy analysis",
+      "option3": "Procurement documents",
+      "option4": "Source selection criteria",
+      "answer": 2
+  },
+  {
+      "question": "All of the  following define the purpose of the Identify Risks process except",
+      "option1": "Identify all risks that might impact the  project",
+      "option2": "Document all risks that might impact the project",
+      "option3": "Control all risks that might impact the project",
+      "option4": "Identify all characteristics of identified risks",
+      "answer": 3
   }
   ];
