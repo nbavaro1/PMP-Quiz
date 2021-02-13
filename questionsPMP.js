@@ -760,5 +760,165 @@ var questions = [
       "option3": "Control all risks that might impact the project",
       "option4": "Identify all characteristics of identified risks",
       "answer": 3
+  },
+  {
+      "question": "Jon is gearing up for his upcoming project, which involves programming a complex system that will allow two programs to talk to each other. The project kicks off  in one week, and  he had been specifically requested by the customer. As a software architect, this will be his most challenging project yet, and he has been looking forward to the assignment for months. Which of the following options best describes Jon’s upcoming project role?",
+      "option1": "Staff assignment",
+      "option2": "Pre-assignment",
+      "option3": "Project team member",
+      "option4": "Acquisition",
+      "answer": 2
+  },
+  {
+      "question": "All of the following are benefits of virtual teams except",
+      "option1": "Access to resources otherwise unavailable",
+      "option2": "Reduction in travel expenses",
+      "option3": "Utilization of a war room",
+      "option4": "Reduction in time spent commuting",
+      "answer": 3
+  },
+  {
+      "question": "At which stage of team development do employees compete for control?",
+      "option1": "Forming",
+      "option2": "Storming",
+      "option3": "Norming",
+      "option4": "Performing",
+      "answer": 2
+  },
+  {
+      "question": "Sally, a junior project manager for Project Red, is in the process of holding a status meeting for the project manager, who stepped out to deal with a procurement issue. The tension in the room has been high because two critical resources suddenly quit. John and Rick, both team members, have been arguing for five minutes over who will take over the tasks. Sally has tried to interject multiple times with no success. The side conversations don’t make managing the meeting any easier. What is the most likely cause of the inefficient meeting?",
+      "option1": "Absence of the project manager",
+      "option2": "Poorly defined communications management plan",
+      "option3": "Poor recognition and rewards",
+      "option4": "Lack of ground rules",
+      "answer": 4
+  },
+  {
+      "question": "Which of the following levels within Maslow’s hierarchy of needs describes the need to belong?",
+      "option1": "Social needs",
+      "option2": "Self-esteem needs",
+      "option3": "Self-actualization",
+      "option4": "Safety and security needs",
+      "answer": 1
+  },
+  {
+      "question": "Which of the following conflict management techniques is said to be the best strategy?",
+      "option1": "Forcing",
+      "option2": "Smoothing",
+      "option3": "Collaborating",
+      "option4": "Compromising",
+      "answer": 3
+  },
+  {
+      "question": "Meetings, email, videoconferences, and conference calls are all examples of which of the following options?",
+      "option1": "Project management tools",
+      "option2": "SmoothingCommunication models",
+      "option3": "Communication methods",
+      "option4": "Communication types",
+      "answer": 3
+  },
+  {
+      "question": "The project team of a new housing expansion project is in a state of frenzy because of a surprise quality audit that is being conducted today on the project. In three days, a major deliverable is due. The project manager explains to the team that the quality audit is important. What reasoning is the project manager likely to give the team for explaining why quality audits are needed in a project?",
+      "option1": "Quality audits look at problems experienced while conducting the project.",
+      "option2": "Quality audits identify inefficiencies that exist within the processes and activities being performed. ",
+      "option3": "Quality audits ensure that the team members are doing their job and are necessary for documenting performance reviews.",
+      "option4": "Conducting quality audits is a legal requirement.",
+      "answer": 2
+  },
+  {
+      "question": "Who is responsible for defining Theory X & Y?",
+      "option1": "Douglas McGregor",
+      "option2": "Frederick Herzberg",
+      "option3": "Abraham Maslow",
+      "option4": "Victor Vroom",
+      "answer": 1
+  },
+  {
+      "question": "The following are tools and techniques of the Manage Stakeholder Engagement process except",
+      "option1": "Stakeholder management plan",
+      "option2": "Communication methods",
+      "option3": "Interpersonal  skills",
+      "option4": "Management skills",
+      "answer": 1
+  },
+  {
+      "question": "Beans by the Dozen is a company that ships precooked beans to restaurants  in the Western United States.  Recently, the company has decided to expand their operation to the Northern regions of the country. The  project manager assigned to the project  has just  instituted a war room to bring project team members together and has  concluded a  team building session after collocation the team. What process is the project manager carrying  out?",
+      "option1": "Plan Human Resource Management",
+      "option2": "Acquire Project Team ",
+      "option3": "Develop Project Team",
+      "option4": "Stakeholder management plan",
+      "answer": 3
+  },
+  {
+      "question": "Through which process group is the majority of the project budget consumed?",
+      "option1": "Planning ",
+      "option2": "Executing",
+      "option3": "Monitoring and Controlling",
+      "option4": "Closing",
+      "answer": 2
+  },
+  {
+      "question": "Polly is a project manager tasked with leading a project that will establish business continuity management practices for a major retail coffee chain. She has just concluded planning efforts on the project and is gearing up to begin executing the work of the project. What is she likely to do first?",
+      "option1": "Obtain resources",
+      "option2": "Resolve team conflict ",
+      "option3": "Manage the project team",
+      "option4": "Obtain funding",
+      "answer": 1
+  },
+  {
+      "question": "Which of the following  tools and techniques provides an opportunity for prospective vendors to ask sellers question about an RFP?",
+      "option1": "Meetings",
+      "option2": "Procurement negotiations",
+      "option3": "Bidder conferences",
+      "option4": "Market research",
+      "answer": 3
+  },
+  {
+      "question": "A deliverable can best be described as ",
+      "option1": "Any unique and verifiable product, result, or capability to perform a service that is required to produce in order to meet quality requirements",
+      "option2": "A verifiable product, result, or capability to perform a service that is required to be produced to complete a project against the documented requirements",
+      "option3": "A repeatable product that is required to be produced to complete a process, phase or project",
+      "option4": "Any unique and verifiable product, result, or capability to perform a service that is required to be produced to compete a process, phase, or project ",
+      "answer": 4
+  },
+  {
+      "question": "A project manager has just gathered the status of project activities and calculated resource consumption to date. What process is the project manager carrying out?",
+      "option1": "Manage Project Team",
+      "option2": "Direct and Manage Project Work",
+      "option3": "Manage Stakeholder Engagement",
+      "option4": "Perform Quality Assurance",
+      "answer": 2
+  },
+  {
+      "question": "The issue log is first created as a result of which process?",
+      "option1": "Manage Stakeholder Engagement",
+      "option2": "Direct and Manage Project Work",
+      "option3": "Manage Project Team",
+      "option4": "Perform Quality Assurance",
+      "answer": 1
+  },
+  {
+      "question": "The following represent the results generated from carrying out the Direct and Manage Project Work process except",
+      "option1": "Project management plan updates ",
+      "option2": "Work performance information",
+      "option3": "Deliverables",
+      "option4": "Project documents updates",
+      "answer": 2
+  },
+  {
+      "question": "The following are inputs used to carry out the Perform Quality Assurance process except",
+      "option1": "Quality management plan",
+      "option2": "Quality metrics",
+      "option3": "Change requests",
+      "option4": "Project documents",
+      "answer": 3
+  },
+  {
+      "question": "Polly is a project manager tasked with leading a project that will establish business continuity management practices for a  major retail coffee chain. By facilitating quality audits, the project team recently discovered corrective action needed to bring the project into compliance with quality requirements. How will Polly process the corrective action?",
+      "option1": "Process improvement plan update",
+      "option2": "Organizational process assets update",
+      "option3": "Project document update",
+      "option4": "Change request",
+      "answer": 4
   }
   ];
