@@ -920,5 +920,165 @@ var questions = [
       "option3": "Project document update",
       "option4": "Change request",
       "answer": 4
+  },
+  {
+      "question": "The Monitor and Control Project Work process results in all of the following except",
+      "option1": "Change requests",
+      "option2": "Preventive actions",
+      "option3": "Defect repairs",
+      "option4": "Deliverables",
+      "answer": 4
+  },
+  {
+      "question": "A project manager of a technical training company is working on a project that will automate the company’s course registration process. Due to the expertise involved, the company hired an external vendor to create the backend development of the registration system. While monitoring the project work, the project manager discovered that the vendor was two weeks behind schedule and about to miss an important mile stone. What tool and technique did the project manager use to make this determination?",
+      "option1": "Agreements",
+      "option2": "Work performance data",
+      "option3": "Performance reporting ",
+      "option4": "Work performance information",
+      "answer": 3
+  },
+  {
+      "question": "All of the following processes integrate with the Control Procurements process except",
+      "option1": "Close Procurements",
+      "option2": "Direct and Manage Project Work",
+      "option3": "Control Quality",
+      "option4": "Perform Integrated Change Control",
+      "answer": 1
+  },
+  {
+      "question": "Which of the following best describes the contract change control system?",
+      "option1": "Meetings where the change control board reviews and makes decisions on change requests submitted",
+      "option2": "A subsystem of the PMIS that manages approved changes and project baselines",
+      "option3": "A system that describes the processes needed to make contract changes",
+      "option4": "A system that describes how the deliverables of the project and associated project documentation are controlled, changed, and approved.",
+      "answer": 3
+  },
+  {
+      "question": "While conducting earned value management, the project manager of a software development company receives a request from a stakeholder for the most current cost estimate report. Specifically the stakeholder needs to know the value of the work completed against the actual cost. Which formula will the project manager use to calculate this information?",
+      "option1": "EV/AC",
+      "option2": "EV – AC",
+      "option3": "EV –  PV",
+      "option4": "EV/PV",
+      "answer": 1
+  },
+  {
+      "question": "During a project status meeting, the project manager provided the room of stakeholders with results of a recent quality audit. After the group discussed the results, it was determined that a minor adjustment needed to be made to bring the variance levels under control. The project sponsor, also a meeting participant, agreed and gave her approval to implement the changes immediately. What should the project manager do next?",
+      "option1": "Inform the quality management team and implement the changes that day.",
+      "option2": "Obtain the customer’s approval for the change, even though the project sponsor has approved it. ",
+      "option3": "Document the change request and submit it for review by the change control board. ",
+      "option4": "Bypass the change control process because the change has already received approval by a high authority. ",
+      "answer": 3
+  },
+  {
+      "question": "After the implementation of yet another risk response plan, the project manager became concerned about whether the budget was sufficient enough to cover the remaining identified risks. Which of the following tools and techniques can the project manager use to evaluate the status of the budget in terms of risk?",
+      "option1": "Risk reassessment",
+      "option2": "Risk audits ",
+      "option3": "Budget analysis ",
+      "option4": "Reserve analysis",
+      "answer": 4
+  },
+  {
+      "question": "If budget a t completion  (BAC) is 1,500 and estimate at completion  (EAC) is 1,350 what is the current variance at completion (VAC)?",
+      "option1": "150",
+      "option2": "75",
+      "option3": ".90",
+      "option4": "1.11",
+      "answer": 1
+  },
+  {
+      "question": "A project manager is in the process of determining the existing variance between the schedule baseline and actual schedule. To determine the variance, the project manager used schedule variance (SV) and schedule performance index (SPI). The project manager is currently in what process?",
+      "option1": "Control Costs",
+      "option2": "Control Schedule",
+      "option3": "Control Quality",
+      "option4": "Control Communications",
+      "answer": 2
+  },
+  {
+      "question": "What level of accuracy does 3 sigma represent?",
+      "option1": "68.27 percent",
+      "option2": "95.46 percent",
+      "option3": "99.73 percent",
+      "option4": "99.99 percent",
+      "answer": 3
+  },
+  {
+      "question": "Assuming that the work will proceed as planned, what is the estimate to complete (ETC) if the estimate at completion (EAC) is $250,000 and actual cost (AC) is $50,000?",
+      "option1": "$300,0000",
+      "option2": "Re-estimate",
+      "option3": "$250,000",
+      "option4": "$200,000",
+      "answer": 4
+  },
+  {
+      "question": "What does the to complete performance index (TCPI) value tell you?",
+      "option1": "The measurement of progress to date against the progress planned",
+      "option2": "Re-estimateThe projected performance level the remaining work of the project must achieve to meet the BAC or EAC",
+      "option3": "The expected total cost of a work component, a scheduled activity, or the project at its completion",
+      "option4": "The amount of effort remaining based on the activities completed to date and what is thought to occur in the future",
+      "answer": 2
+  },
+  {
+      "question": "Which process is responsible for ensuring that communication requirements of stakeholders are met?",
+      "option1": "Manage Stakeholder Engagement",
+      "option2": "Mange Communications",
+      "option3": "Control Stakeholder Engagement",
+      "option4": "Control Communications",
+      "answer": 4
+  },
+  {
+      "question": "Polly is a project manager tasked with leading a project that will establish business continuity management practices for a major retail coffee chain. The disaster recovery procedures deliverable has just been verified. What process is Polly likely to take the deliverable through next?",
+      "option1": "Control Scope",
+      "option2": "Validate Scope",
+      "option3": "Close Project or Phase ",
+      "option4": "Monitor and Control Project Work",
+      "answer": 2
+  },
+  {
+      "question": "Polly is a project manager tasked with leading a project that will establish business continuity management practices for a major retain coffee chain. She has been asked by the project sponsor to provide an update of the expected total cost of the project work. Currently, the project is expected to continue to experience steady performance,. What value will Polly report at the nest meeting if the BAC = $500,000, EV = $300,000, and AC = $350,000?",
+      "option1": "Insufficient information provided",
+      "option2": "-$50,000",
+      "option3": "$550,000",
+      "option4": "$583,431",
+      "answer": 4
+  },
+  {
+      "question": "If earned value (EV) is 20,000 and planned value (PV) is 35,000, what can you determine about the project?",
+      "option1": "Ahead of schedule",
+      "option2": "Under budget",
+      "option3": "Behind schedule",
+      "option4": "Over budget",
+      "answer": 3
+  },
+  {
+      "question": "Beans by the Dozen is a company that ships precooked beans to restaurants in the Western United States. Recently, the company has decided to expand their operation to the Northern regions of the country. Ben, the project manager, has just implemented three changes approved by the change control board. What is Ben likely to do next in regard to these changes?",
+      "option1": "Approve the changes",
+      "option2": "Validate the changes",
+      "option3": "Update schedule and under budget the change log",
+      "option4": "Communicate an update to stakeholders",
+      "answer": 2
+  },
+  {
+      "question": "Based on the following information, what can you determine about the project? Earned value (EV) = 160,000, actual cost (AC) = 110,000, planned value = 175,000",
+      "option1": "The project is behind",
+      "option2": "The project is ahead of scheduled and under budget",
+      "option3": "The project is behind schedule and over budget",
+      "option4": "The project is ahead of schedule and under budget",
+      "answer": 1
+  },
+  {
+      "question": "All of the following are outputs of the Control Stakeholder Engagement process except",
+      "option1": "Project documents updates",
+      "option2": "Change requests",
+      "option3": "Work performance data",
+      "option4": "Work performance information",
+      "answer": 3
+  },
+  {
+      "question": "Beans by the Dozen is a company that ships precooked beans to restaurants in the Western United States. Recently, the company has decided to expand their operation to the Northern regions of the country. The project is currently behind schedule, and the project manager has just been asked to work his magic to get the project back on track. If earned value (EV) is $60,000, actual cost (AC) is $85,000, and planned value (PV) is $75,000, what options are available to the project manager?",
+      "option1": "Crash the schedule",
+      "option2": "Fast track the schedule",
+      "option3": "Crash or fast track the schedule",
+      "option4": "Nothing; he is out of options",
+      "answer": 2
   }
   ];
