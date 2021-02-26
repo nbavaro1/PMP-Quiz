@@ -1080,5 +1080,125 @@ var questions = [
       "option3": "Crash or fast track the schedule",
       "option4": "Nothing; he is out of options",
       "answer": 2
+  },
+  {
+      "question": "All of the following are inputs of the Close Project or Phase process except",
+      "option1": "Procurement documents",
+      "option2": "Project management plan",
+      "option3": "Accepted deliverables",
+      "option4": "Organizational process assets",
+      "answer": 1
+  },
+  {
+      "question": "A project manager of a travel excursion company is currently working on confirming that all project deliverables have been successfully completed to transfer the project to the customer. What  process is the project currently in?",
+      "option1": "Validate Scope",
+      "option2": "Scope Closure",
+      "option3": "Close Project or Phase",
+      "option4": "Close Procurements",
+      "answer": 3
+  },
+  {
+      "question": "When closing out a project or project phase, which of the following tools and techniques can be used to ensure that closure has been performed to the appropriate standards?",
+      "option1": "Records management system",
+      "option2": "Procurement audits",
+      "option3": "Expert judgement ",
+      "option4": "Organizational process assets",
+      "answer": 3
+  },
+  {
+      "question": "The Close Procurements process accomplishes all of the following except",
+      "option1": "Updating and archiving records for future reference",
+      "option2": "Completing closeout terms or conditions as specified within the procurement contracts",
+      "option3": "Documenting and verifying project outcomes",
+      "option4": "Transitioning the final product, service, or result to the organization",
+      "answer": 4
+  },
+  {
+      "question": "While conducting project closure activities, a relatively new project manager of a white board production company becomes confused as to how the organization verifies that the existing criteria have been met. The project manager has found that some of the procedures followed by the organization are different from previous companies she’s worked for. Where can the project manager go to clarify the procedures for verifying that the exit criteria have been met?",
+      "option1": "Administrative closure procedures",
+      "option2": "Close Project or Phase",
+      "option3": "Close Procurements",
+      "option4": "Expert judgement ",
+      "answer": 1
+  },
+  {
+      "question": "All of the following are tools and techniques of the Close Procurements process except",
+      "option1": "Procurement documents",
+      "option2": "Procurement audits",
+      "option3": "Procurement negotiations",
+      "option4": "Records management system",
+      "answer": 1
+  },
+  {
+      "question": "Procurement audits are concerned with which or the following",
+      "option1": "Resolving issues",
+      "option2": "Documenting the processes, control functions, and automation tools ",
+      "option3": "Identifying flawed scope processes",
+      "option4": "Identifying lessons learned",
+      "answer": 4
+  },
+  {
+      "question": "A project manager was in the midst of trying to resolve a dispute with one of the project’s largest vendors. The issue revolved around the responsibility of the vendor to comply with changes to the scope. Although this was addressed in the contract, the vendor felt that the scope changes were much larger than the scope of the contract itself. What would be the best way to resolve the dispute?",
+      "option1": "Through the court system",
+      "option2": "Using an alternative dispute resolution technique",
+      "option3": "Terminating the contract",
+      "option4": "Making changes to the contract",
+      "answer": 2
+  },
+  {
+      "question": "Project managers have the greatest amount of influence during which stage of the project?",
+      "option1": "Prior to the start of the project",
+      "option2": "During the planning processes",
+      "option3": "During execution of the project work",
+      "option4": "During the Closing processes",
+      "answer": 4
+  },
+  {
+      "question": "Resource release criteria can best be found in which plan?",
+      "option1": "The project management plan",
+      "option2": "The staff release plan",
+      "option3": "The staffing management plan",
+      "option4": "The human resource management plan",
+      "answer": 2
+  },
+  {
+      "question": "A major deliverable has just been signed off by the sponsor. What is the project manager likely to do next?",
+      "option1": "Carry out the Close Project or Phase process",
+      "option2": "Carry out the Validate Scope process",
+      "option3": "Carry out the Control Quality process",
+      "option4": "Carry out Integration activities",
+      "answer": 1
+  },
+  {
+      "question": "Polly is a project manager tasked with leading a project that will establish business continuity management practices for a major retail coffee chain. The project’s sponsor has just informed Polly that due to a major health safety issue discovered, all resources will be pulled from her project for an indefinite amount of time. In this scenario, Polly’s project has just been terminated due to what type of project ending?",
+      "option1": "Addition",
+      "option2": "Starvation",
+      "option3": "Integration",
+      "option4": "Extinction",
+      "answer": 2
+  },
+  {
+      "question": "Polly is a project manager tasked with leading a project that  will  establish business continuity management practices for a major retail coffee chain. The project’s sponsor has just informed Polly that due to a major health safety issue discovered, all resources will be pulled from her project for an indefinite amount of time. What is Polly likely to do next?",
+      "option1": "Validate the health safety issue to ensure that  resources are being used appropriately",
+      "option2": "Archive all project documentation and release the resources immediately",
+      "option3": "Perform closure activities by carrying out the Close Project or Phase process",
+      "option4": "Refuse to cancel the project, since business continuity is critical to the success of the company",
+      "answer": 3
+  },
+  {
+      "question": "The Close Project or Phase process belongs to which project management Knowledge Area?",
+      "option1": "Project Procurement Management",
+      "option2": "Project Integration Management",
+      "option3": "Project Closure Management",
+      "option4": "Project Scope Management",
+      "answer": 2
+  },
+  {
+      "question": "Beans by the Dozen is a company that ships precooked beans to restaurants in the Western United States. Recently, the company has decided to expand their operation to the Northern regions of the country. Ben, the  project manager, confirmed that the vendor has recently completed all deliverables outlined within the statement of work and passed a recent audit. Which document is Ben likely to use as a guide to closing out the contract?",
+      "option1": "Human resource management plan",
+      "option2": "Project management plan",
+      "option3": "Contract closure plan",
+      "option4": "Procurement management plan",
+      "answer": 4
   }
   ];
