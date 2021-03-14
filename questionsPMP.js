@@ -1200,5 +1200,333 @@ var questions = [
       "option3": "Contract closure plan",
       "option4": "Procurement management plan",
       "answer": 4
+  },
+  {
+      "question": "To control the schedule, a project manager is reanalyzing the project to predict project duration. She does this by analyzing the sequence of activities with the least amount of scheduling flexibility. What technique is she using?",
+      "option1": "Critical path method",
+      "option2": "Flowchart",
+      "option3": "Precedence diagramming",
+      "option4": "Work breakdown structure ",
+      "answer": 1
+  },
+  {
+      "question": "A dependency requiring that design be completed before manufacturing can start is an example of a (n):",
+      "option1": "Discretionary dependency",
+      "option2": "Eternal dependency",
+      "option3": "Mandatory dependency",
+      "option4": "Scope dependency",
+      "answer": 3
+  },
+  {
+      "question": "Which of the following are Generally illustrated better by bar charts then network diagrams?",
+      "option1": "Logical relationships",
+      "option2": "Critical paths",
+      "option3": "Resource trade-offs",
+      "option4": "Progress or status",
+      "answer": 4
+  },
+  {
+      "question": "If the optimistic estimate for an activity is 12 days and the pessimistic estimate is 18 days what is the standard deviation of this activity?",
+      "option1": "1",
+      "option2": "1.3",
+      "option3": "6",
+      "option4": "3",
+      "answer": 1
+  },
+  {
+      "question": "A heuristic is best described as a ",
+      "option1": "Control tool",
+      "option2": "Scheduling method",
+      "option3": "Planning tool",
+      "option4": "Generally accepted rule",
+      "answer": 4
+  },
+  {
+      "question": "Lag means",
+      "option1": "The amount of time an activity can be delayed without delaying the project finish date",
+      "option2": "The amount of time an activity can be delayed without delaying the early start date of its successor",
+      "option3": "Waiting time",
+      "option4": "The product of a forward and backward pass",
+      "answer": 3
+  },
+  {
+      "question": "Which of the following is the best project management tool to use to determine the longest time the project will take?",
+      "option1": "Work breakdown structure",
+      "option2": "Network diagram",
+      "option3": "Bar chart ",
+      "option4": "Project charter",
+      "answer": 2
+  },
+  {
+      "question": "Which of the following is correct?",
+      "option1": "The critical path helps prove how long the project will take",
+      "option2": "There can be only one critical path",
+      "option3": "The network diagram will change every time the end date changes",
+      "option4": "A project can never have negative float",
+      "answer": 1
+  },
+  {
+      "question": "What is the duration of a milestone?",
+      "option1": "It is shorter than the duration of the longest activity",
+      "option2": "It is shorter than the activity it represents",
+      "option3": "It has no duration",
+      "option4": "It is the same length as the activity it represents",
+      "answer": 3
+  },
+  {
+      "question": "Which of the following best describes the relationship between standard deviation and risk?",
+      "option1": "There is no relationship",
+      "option2": "Standard deviation tells you if the estimate is accurate",
+      "option3": "Standard deviation tells you how uncertain the estimate is",
+      "option4": "Standard deviation tells you if the estimate includes a pad",
+      "answer": 3
+  },
+  {
+      "question": "The float of an activity is determined by",
+      "option1": "Performing a Monte Carlo analysis",
+      "option2": "Determining the waiting time between activities",
+      "option3": "Determining lag",
+      "option4": "Determining the length of time the activity can be delayed without delaying the critical path",
+      "answer": 4
+  },
+  {
+      "question": "A project has three critical paths. Which of the following best describes how this affects the project?",
+      "option1": "It makes it easier to manage",
+      "option2": "It increases the project risk",
+      "option3": "It requires more people",
+      "option4": "It makes it more expensive",
+      "answer": 2
+  },
+  {
+      "question": "If project time and cost are not as important as the number of resources used each month, which of the following is the best thing to do?",
+      "option1": "Perform a Monte Carlo analysis",
+      "option2": "Fast track the projects",
+      "option3": "Perform resource optimization",
+      "option4": "Analyze the life cycle costs",
+      "answer": 3
+  },
+  {
+      "question": "When is a milestone chart used instead of a bar chart?",
+      "option1": "Project planning",
+      "option2": "Reporting to team members",
+      "option3": "Reporting to management",
+      "option4": "Risk analysis",
+      "answer": 3
+  },
+  {
+      "question": "Your project management plan results in a project schedule that is too long. If the project network diagram cannot change but you have extra personnel resources, what is the best thing to do?",
+      "option1": "Fast track the project",
+      "option2": "Level the resources",
+      "option3": "Crash the project ",
+      "option4": "Perform Monte Carlo analysis",
+      "answer": 3
+  },
+  {
+      "question": "Which of the following is the best thing to do when asked to complete a project two days earlier than planned?",
+      "option1": "Tell senior management that the project’s critical path does not allow the project to be finished earlier",
+      "option2": "Tell your boss",
+      "option3": "Meet with the team to look at options for crashing or fast tracking the critical path",
+      "option4": "Work hard and see what the project status is next month",
+      "answer": 3
+  },
+  {
+      "question": "In attempting to complete the project faster, the project manager looks at the cost associated with crashing each activity. The best approach to crashing would also include looking at the ",
+      "option1": "Risk impact of crashing each activity",
+      "option2": "Customer’s opinion of which activities to crash",
+      "option3": "Boss’s opinion of which activities to crash and in which order",
+      "option4": "Project life cycle phase in which the activity is due to occur",
+      "answer": 1
+  },
+  {
+      "question": "Which of the following processes includes asking team members about the time estimates for their activities and reaching agreement on the calendar date for each activity?",
+      "option1": "Sequence Activities",
+      "option2": "Develop Schedule",
+      "option3": "Define Scope",
+      "option4": "Develop Project Charter",
+      "answer": 2
+  },
+  {
+      "question": "A project manager is in the middle of executing a very large construction project when he discovers the time needed to complete the project is longer than the time available. What is the best thing to do?",
+      "option1": "Cut product scope",
+      "option2": "Meet with management and tell them the required date cannot be met",
+      "option3": "Work overtime",
+      "option4": "Determine options for schedule compression and present management with his recommended option",
+      "answer": 4
+  },
+  {
+      "question": "During project planning you estimate the time needed for each activity and then add up the estimates to create the project estimate. You commit to completing the project by this date. What is wrong with this scenario?",
+      "option1": "The team did not create the estimate and estimating takes too long using that method",
+      "option2": "The team did not create the estimate and a network diagram was not used",
+      "option3": "The estimate is too long and should be created by management",
+      "option4": "The project estimate should be the same as the customer’s required completing date",
+      "answer": 2
+  },
+  {
+      "question": "You are a project manager on a US $5,000,000 software development project. While working with your project team to develop a network diagram, you notice a series of activities that can be worked in parallel but must finish in a specific sequence. What type of activity sequencing method is required for these activities?",
+      "option1": "Precedence diagramming method",
+      "option2": "Arrow diagramming method",
+      "option3": "Critical path method",
+      "option4": "Operational diagramming method",
+      "answer": 1
+  },
+  {
+      "question": "You are a project manager on a US $5000,000 software development project. While working with your project team to develop a network diagram, your data architects suggest that quality could be improved if that data model is approved by senior management before moving on to other design elements. They support this suggestion with an article from a leading software development journal. Which of the following best describes this type of input?",
+      "option1": "Mandatory dependency",
+      "option2": "Discretionary dependency",
+      "option3": "Eternal dependency",
+      "option4": "Heuristic",
+      "answer": 2
+  },
+  {
+      "question": "You have a project with the following activities. Activity A takes 40 hours and can start after the project starts. Activity B takes 25 hours and should happen after the project starts. Activity C must happen after activity A and takes 35 hours. Activity D must happen after activities B and C and takes 30 hours. Activity E must take place after activity C and takes 10 hours. Activity F takes place after Activity E and takes 22 hours. Activities F and D are the last activities of the project. Which of the following is true if activity B actually takes 37 hours?",
+      "option1": "The critical path is 67 hours",
+      "option2": "The critical path changes to Start, B, D, End",
+      "option3": "The critical path is Start, A, C E, F, End",
+      "option4": "The critical path increases by 12 hours",
+      "answer": 3
+  },
+  {
+      "question": "A project manager has received activity duration estimates from his team. Which of the following does he need in order to complete the Develop Schedule process?",
+      "option1": "Change requests",
+      "option2": "Schedule change control system",
+      "option3": "Recommended corrective actions",
+      "option4": "Reserves",
+      "answer": 4
+  },
+  {
+      "question": "A project manager is taking over a project form another project manager during project planning. If the new project manager wants to see what the previous project manager planned for managing changes to the schedule, it would be best to look at the:",
+      "option1": "Communications management plan",
+      "option2": "Update management plan",
+      "option3": "Staffing management plan",
+      "option4": "Schedule management plan",
+      "answer": 4
+  },
+  {
+      "question": "A project manager is using weighted average duration estimates to perform schedule network analysis. Which type of mathematical analysis is being used?",
+      "option1": "Critical path method",
+      "option2": "Beta distribution",
+      "option3": "Monte Carlo",
+      "option4": "Resource Leveling",
+      "answer": 2
+  },
+  {
+      "question": "The WBS estimates for each work package, and the network diagram are completed. The next thing for the project manager to do is:",
+      "option1": "Sequence the activities",
+      "option2": "Validate that they have the correct scope",
+      "option3": "Create a preliminary schedule and get the team’s approval",
+      "option4": "Complete risk management",
+      "answer": 3
+  },
+  {
+      "question": "A new product development project has four levels in the work breakdown structure and has been sequenced using the precedence diagramming method. The activity duration estimates have been received. What should be done next?",
+      "option1": "Create an activity list",
+      "option2": "Begin the work breakdown structure",
+      "option3": "Finalize the schedule",
+      "option4": "Compress the schedule",
+      "answer": 4
+  },
+  {
+      "question": "You are the project manager for a new product development project that has four levels in the work breakdown structure. The network diagram and duration estimates have been created, and a schedule has been developed and compressed. Which time management activity should you do next?",
+      "option1": "Control Schedule",
+      "option2": "Estimate Activity Resources",
+      "option3": "Analogously estimate the schedule",
+      "option4": "Gain approval",
+      "answer": 4
+  },
+  {
+      "question": "A team member from research and development tells you that her work is too creative to provide you with fixed single estimate for the activity. You both decide to use the average labor hours to develop a prototype (form past projects). This is an example of which of the following?",
+      "option1": "Parametric estimating",
+      "option2": "Three-point estimating",
+      "option3": "Analogous estimating",
+      "option4": "Monte Carlo analysis",
+      "answer": 1
+  },
+  {
+      "question": "An activity has an early start (ES) of day 3, a late start (LS) of day 13, an early finish (EF) of day 9, and a late finish (LF) of day 19. The activity:",
+      "option1": "Is on the critical path",
+      "option2": "Has a lag",
+      "option3": "Is progressing well",
+      "option4": "Is not on the critical path",
+      "answer": 4
+  },
+  {
+      "question": "The project is calculated to be completed four days after the desired completion date. You do not have access to additional resources. The project is low risk, the benefit cost ratio is expected to be 1.6, and the dependencies are preferential. Under these circumstances, what is the best thing to do?",
+      "option1": "Cut resources from an activity",
+      "option2": "Make more activities concurrent",
+      "option3": "Move resources from the preferential dependencies to the external dependencies",
+      "option4": "Remove an activity from the project",
+      "answer": 2
+  },
+  {
+      "question": "A project manager for a small construction company has a project that was budgeted for US $130,000 over a six-week period. According to her schedule, the project should have cost US $60,000 to dated. However, it has cost US $90,000 to dated. The project is also behind schedule, because the original estimates were not accurate. Who has the primary responsibility to solve this problem?",
+      "option1": "Project manager",
+      "option2": "Senior management",
+      "option3": "Project sponsor",
+      "option4": "Manager of the project management office",
+      "answer": 1
+  },
+  {
+      "question": "Senior management is complaining that they are not able to easily determine the status of ongoing projects in the organization. Which of the following types of reports would help provide summary information to senior management?",
+      "option1": "Detailed cost estimates",
+      "option2": "Project management plans",
+      "option3": "Bar charts",
+      "option4": "Milestone reports",
+      "answer": 4
+  },
+  {
+      "question": "Rearranging resources so that a constant number of resources is used each month is called:",
+      "option1": "Crashing",
+      "option2": "Floating",
+      "option3": "Leveling",
+      "option4": "Fast tracking",
+      "answer": 3
+  },
+  {
+      "question": "Which of the following is a benefit of an analogous project estimate?",
+      "option1": "It will be closer to what the work will actually require",
+      "option2": "It is based on a detailed understanding of what the work requires",
+      "option3": "It gives the project team an understanding of management’s expectations",
+      "option4": "It helps the project manager determine if the project will meet the schedule",
+      "answer": 3
+  },
+  {
+      "question": "During project executing, a large number of changes are made to the project. The project manager should:",
+      "option1": "Wait until all changes are known and print out a new schedule",
+      "option2": "Make approved changes as needed, but retain the schedule baseline",
+      "option3": "Make only the changes approved by management",
+      "option4": "Talk to management before any changes are made",
+      "answer": 2
+  },
+  {
+      "question": "If a project reports SPI = 1.2 and CPI = 0.97, what does it mean?",
+      "option1": "There is a delay in the critical path",
+      "option2": "No big worries on cost",
+      "option3": "Project is on schedule and within budget",
+      "option4": "No big worries on schedule and cost",
+      "answer": 4
+  },
+  {
+      "question": "Which one of the following represents budgeted dollars for work already planned?",
+      "option1": "Planned Value",
+      "option2": "Sunk Cost",
+      "option3": "Depreciation",
+      "option4": "Budget at completion",
+      "answer": 1
+  },
+  {
+      "question": "Assume that you are the project manager for the construction of a 15-mile road. Further assume that the work is uniformly distributed over 12 weeks. The total approved budget for this project is $600,000. At the end of the first three weeks of work $160,000 has been spent, and five miles of road have been completed. What is the planned value of the project at this point in time?",
+      "option1": "$160,000",
+      "option2": "$200,000",
+      "option3": "$150,000",
+      "option4": "$600,000",
+      "answer": 3
+  },
+  {
+      "question": "Assume that you are the project manager for the construction of a 15-mile road. Further assume that the work is uniformly distributed over 12 weeks. The total approved budget for this project is $600,000. At the end of the first three weeks of work $160,000 has been spent, and five miles of road have been completed. What is the schedule variance?",
+      "option1": "$40,000",
+      "option2": "$50,000",
+      "option3": "3 weeks",
+      "option4": "12 weeks",
+      "answer": 2
   }
   ];
